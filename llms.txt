@@ -1,0 +1,26 @@
+# WorldsWave Documentation
+
+> Official user documentation for WorldsWave, a free-speech social media, video and live-streaming platform.
+
+## Getting started
+
+- [How to Create a WorldsWave Account and Set Up Your Profile](https://worldswave.help.center/article/1015-create-account-and-profile.md): Sign up with email, phone or Google, verify your account, and set up your profile, cover photo and privacy settings.
+- [How to Use WorldsWave: Posting, Waves, Topics and Every Other Feature](https://worldswave.help.center/article/1017-using-worldswave.md): Every button in the post box explained, plus Waves, Topics, Watch, Blog, Movies, Forum and Market.
+- [Points and Leaderboards: How to Win a Free Pro Plan on WorldsWave](https://worldswave.help.center/article/1014-points-and-leaderboards.md): How points work, and how the top five on the all-time leaderboard get a Wave Prime or World+ plan free.
+- [Reporting, Blocking and the Rules on WorldsWave](https://worldswave.help.center/article/1018-reporting-and-rules.md): How to report a post or user, block someone, appeal a decision, and what the Community Guidelines prohibit.
+
+## Live streaming
+
+- [How to Use WaveDeck, Powered by WorldsWave: The Complete Live Streaming and Multistreaming Guide](https://worldswave.help.center/article/1011-how-to-use-wavedeck-multistreaming-guide.md): Go live from the browser or OBS, multistream to Twitch, Kick, YouTube and Rumble, add guests, scenes and recordings.
+- [How to Set Up WaveBot: One Chat Feed From Every Platform You Stream To](https://worldswave.help.center/article/1012-how-to-set-up-wavebot-chat.md): Pull chat from eleven platforms into one feed, put it on stream as an OBS overlay, and read it aloud.
+
+## Earning on WorldsWave
+
+- [Wavium, NAGs and Gifts: Getting Paid on WorldsWave](https://worldswave.help.center/article/1013-wavium-nags-and-gifts.md): Wavium, NAGs and gifts, and how creators get paid. WorldsWave takes 0% from creators.
+- [How to Sell Subscriptions on WorldsWave: Tiers, Monetized Posts and Payouts](https://worldswave.help.center/article/1016-creator-subscriptions.md): Set up paid subscription tiers, post subscriber-only content, and withdraw earnings.
+- [How to Advertise on WorldsWave: Boosting Posts and Running Ad Campaigns](https://worldswave.help.center/article/1019-advertising-and-boosting.md): Boost your posts to the community, or run a targeted paid ad campaign.
+
+## Optional
+
+- [WorldsWave platform](https://worldswave.com): The live platform.
+- [WorldsWave Help Center](https://worldswave.help.center): The canonical published documentation.
