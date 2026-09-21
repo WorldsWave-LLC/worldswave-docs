@@ -110,5 +110,3 @@ Corrections are welcome — open an issue or a pull request. The Help Center is 
 ## Licence
 
 Documentation is released under [CC BY 4.0](LICENSE). You may quote, reuse and adapt it with attribution to WorldsWave. "WorldsWave", "WaveDeck", "WaveBot" and "Wavium" are names of the WorldsWave platform.
-# worldswave-docs
-Official documentation for WorldsWave - a free-speech social media, video and live-streaming platform. Posting, Waves, WaveDeck multistreaming, WaveBot merged chat, Wavium, creator subscriptions and the community rules.
